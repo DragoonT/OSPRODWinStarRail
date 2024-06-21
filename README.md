@@ -51,6 +51,16 @@ Click Download
 
 ## HoYoPlay Download
 
-Download [HoYoPlay (Honkai: Star Rail)](https://hsr.hoyoverse.com/th-th/) and install in your PC. Rename **Star_Rail_Games** folder to **Star Rail Games** folder and move Star Rail Games folder to C:\your-path\HoYoPlay\games
+HoYoPlay :
+1. [HoYoPlay (Honkai: Star Rail) (KR)](https://hsr.hoyoverse.com/ko-kr/)
+2. [HoYoPlay (Honkai: Star Rail) (TH)](https://hsr.hoyoverse.com/th-th/) 
+3. [HoYoPlay (Honkai: Star Rail) (EN)](https://hsr.hoyoverse.com/en-us/)
+4. [HoYoPlay (Honkai: Star Rail) (JP)](https://hsr.hoyoverse.com/ja-jp/)
+5. [HoYoPlay (Honkai: Star Rail) (CN)](https://hsr.hoyoverse.com/zh-cn/home)
+
+Download HoYoPlay and install in your PC. Rename **Star_Rail_Games** folder to **Star Rail Games** folder and move Star Rail Games folder to C:\your-path\HoYoPlay\games
 
 ![StarRailGames](image4.png)
+
+## MiHoYo
+1. [MiHoYo (Honkai: Star Rail) (CN)](https://sr.mihoyo.com/?nav=home)
