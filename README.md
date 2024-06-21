@@ -1,6 +1,6 @@
 # OSWinStarRail2_3
 
-Honkai: Star Rail vsersion 2.3.0
+Honkai: Star Rail version 2.3.0
 
 ## Star Rail Games
 
