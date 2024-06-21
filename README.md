@@ -25,6 +25,9 @@ Honkai: Star Rail 2.3.0
 
 Download all files and unzip .7z.001 only
 
+Click I Accept or No thanks
 ![Click I Accept or No thanks](image1.png)
+Click I agree
 ![Click I agree](image2.png)
+Click Download
 ![Click Download](image3.png)
