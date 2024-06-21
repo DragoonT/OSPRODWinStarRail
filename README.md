@@ -1,8 +1,8 @@
-## OSWinStarRail2_3
+# OSWinStarRail2_3
 
 Honkai: Star Rail vsersion 2.3.0
 
-# Star Rail Games
+## Star Rail Games
 
 This repository contains the Star Rail Games. The game files are split into multiple parts and need to be downloaded and extracted to access the full content.
 
