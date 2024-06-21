@@ -8,7 +8,7 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 ## Download the Files
 
-Please download all parts of the `.7z` archive from the links below: (can download on 21/6/2024 - 28/6/2024)
+Please download all parts of the `.7z` archive from the links below: (Available download on 21/6/2024 - 28/6/2024)
 
 1. [Star_Rail_Games.7z.001](https://we.tl/t-aqLb4bs28E)
 2. [Star_Rail_Games.7z.002](https://we.tl/t-JUJvHnXosO)
