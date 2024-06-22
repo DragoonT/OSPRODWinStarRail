@@ -8,8 +8,8 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 ## Download the Files
 
-1. [StarRail_2.3.0](https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/StarRail_2.3.0.zip)
-2. [hdiff StarRail_2.2.0_2.3.0](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.2.0_2.3.0_hdiff_WwevYToSIVWLRkDA.zip)
+1. [StarRail_2.3.0](https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/StarRail_2.3.0.zip) (Official)
+2. [hdiff StarRail_2.2.0_2.3.0](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.2.0_2.3.0_hdiff_WwevYToSIVWLRkDA.zip) (Official)
 
 cr. (https://www.reddit.com/user/RhiskOMG/comments/1di273o/direct_download_links_for_honkai_star_rail_23/)
 
