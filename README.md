@@ -1,4 +1,4 @@
-# OSWinStarRail2_3
+# OSPRODWinStarRail
 
 Honkai: Star Rail version 2.4.0
 
