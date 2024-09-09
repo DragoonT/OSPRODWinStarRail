@@ -23,8 +23,8 @@ HoYoPlay :
 ## Voice Pack v2.5.0
 1. Japanese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Japanese.7z
 2. English: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/English.7z
-3. Chinese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.zip
-4. Korean: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.zip
+3. Chinese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.7z
+4. Korean: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.7z
 
 ## MiHoYo
 1. [MiHoYo (Honkai: Star Rail) (CN)](https://sr.mihoyo.com/?nav=home)
