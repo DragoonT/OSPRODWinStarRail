@@ -20,11 +20,11 @@ HoYoPlay :
 4. [HoYoPlay (Honkai: Star Rail) (JP)](https://hsr.hoyoverse.com/ja-jp/)
 5. [HoYoPlay (Honkai: Star Rail) (CN)](https://hsr.hoyoverse.com/zh-cn/home)
 
-## Voice Pack
-1. Japanese: https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/Japanese.zip
-2. English: https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/English.zip
-3. Chinese: https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/Chinese.zip
-4. Korean: https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/Korean.zip
+## Voice Pack v2.5.0
+1. Japanese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Japanese.7z
+2. English: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/English.7z
+3. Chinese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.zip
+4. Korean: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.zip
 
 ## MiHoYo
 1. [MiHoYo (Honkai: Star Rail) (CN)](https://sr.mihoyo.com/?nav=home)
