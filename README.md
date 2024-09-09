@@ -8,7 +8,7 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 ## Download the Files
 
-1. StarRail_2.5.0: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/StarRail_2.5.0.7z (Official)
+1. StarRail_2.5.0: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/StarRail_2.5.0.zip (Official)
 2. hdiff StarRail_2.3.0_2.4.0 https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.3.0_2.4.0_hdiff_LtSmsraRrcMxgDYI.zip (Official)
 
 ## HoYoPlay Download
@@ -21,10 +21,10 @@ HoYoPlay :
 5. [HoYoPlay (Honkai: Star Rail) (CN)](https://hsr.hoyoverse.com/zh-cn/home)
 
 ## Voice Pack v2.5.0
-1. Japanese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Japanese.7z
-2. English: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/English.7z
-3. Chinese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.7z
-4. Korean: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.7z
+1. Japanese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Japanese.zip
+2. English: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/English.zip
+3. Chinese: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.zip
+4. Korean: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.zip
 
 ## MiHoYo
 1. [MiHoYo (Honkai: Star Rail) (CN)](https://sr.mihoyo.com/?nav=home)
