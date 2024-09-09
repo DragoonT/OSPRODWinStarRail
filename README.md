@@ -1,6 +1,6 @@
 # OSPRODWinStarRail
 
-Honkai: Star Rail version 2.4.0
+Honkai: Star Rail version 2.5.0
 
 ## Star Rail Games
 
@@ -8,7 +8,7 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 ## Download the Files
 
-1. StarRail_2.4.0: https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/StarRail_2.4.0.zip (Official)
+1. StarRail_2.5.0: https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/StarRail_2.5.0.7z (Official)
 2. hdiff StarRail_2.3.0_2.4.0 https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.3.0_2.4.0_hdiff_LtSmsraRrcMxgDYI.zip (Official)
 
 ## HoYoPlay Download
