@@ -15,10 +15,9 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 HoYoPlay :
 1. [HoYoPlay (Honkai: Star Rail) (KR)](https://hsr.hoyoverse.com/ko-kr/)
-2. [HoYoPlay (Honkai: Star Rail) (TH)](https://hsr.hoyoverse.com/th-th/) 
-3. [HoYoPlay (Honkai: Star Rail) (EN)](https://hsr.hoyoverse.com/en-us/)
-4. [HoYoPlay (Honkai: Star Rail) (JP)](https://hsr.hoyoverse.com/ja-jp/)
-5. [HoYoPlay (Honkai: Star Rail) (CN)](https://hsr.hoyoverse.com/zh-cn/home)
+2. [HoYoPlay (Honkai: Star Rail) (EN)](https://hsr.hoyoverse.com/en-us/)
+3. [HoYoPlay (Honkai: Star Rail) (JP)](https://hsr.hoyoverse.com/ja-jp/)
+4. [HoYoPlay (Honkai: Star Rail) (CN)](https://hsr.hoyoverse.com/zh-cn/home)
 
 ## Voice Pack v2.6.0
 1. Japanese: https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/Japanese.7z
