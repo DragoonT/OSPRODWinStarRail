@@ -8,7 +8,7 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 ## Download the Files
 
-1. StarRail_3.0.0:
+1. StarRail_3.1.0:
    https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.001
    https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.002
    https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.003
