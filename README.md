@@ -1,6 +1,6 @@
 # OSPRODWinStarRail
 
-Honkai: Star Rail version 3.0.0
+Honkai: Star Rail version 3.1.0
 
 ## Star Rail Games
 
@@ -9,17 +9,17 @@ This repository contains the Star Rail Games. The game files are split into mult
 ## Download the Files
 
 1. StarRail_3.0.0:
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.001
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.002
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.003
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.004
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.005
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.006
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.007
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.008
-   https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.009
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.001
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.002
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.003
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.004
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.005
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.006
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.007
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.008
+   https://autopatchcn.bhsr.com/client/cn/20250213221833_pWDwIcOAdsmyvG3O/PC/download/StarRail_3.1.0.7z.009
    
-3. hdiff StarRail_2.7.0_3.0.0: https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.7.0_3.0.0_hdiff_IccPVrnPTaCKPnOg.7z
+3. hdiff StarRail_3.0.0_3.1.0: https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.0.0_3.1.0_hdiff_vOGoBfmLkQqLetkq.7z
 
 ## HoYoPlay Download
 
