@@ -1,6 +1,6 @@
 # OSPRODWinStarRail
 
-Honkai: Star Rail version 3.4.0
+Honkai: Star Rail version 3.5.0
 
 ## Star Rail Games
 
@@ -8,19 +8,17 @@ This repository contains the Star Rail Games. The game files are split into mult
 
 ## Download the Files
 
-2. StarRail_3.4.0 os: <br>
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.001
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.002
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.003
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.004
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.005
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.006
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.007
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.008
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.009
-   https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.010
+2. StarRail_3.5.0 os: <br>
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.001
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.002
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.003
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.004
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.005
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.006
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.007
+   https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.008
    
-3. hdiff StarRail_3.3.0_3.4.0: https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.3.0_3.4.0_hdiff_ncZjrgLEEuzXbWWW.7z
+4. hdiff StarRail_3.4.0_3.5.0: https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.4.0_3.5.0_hdiff_SyiiunQLNVlWgyFX.7z
 
 ## HoYoPlay Download
 
@@ -30,11 +28,11 @@ HoYoPlay :
 3. [HoYoPlay (Honkai: Star Rail) (JP)](https://hsr.hoyoverse.com/ja-jp/)
 4. [HoYoPlay (Honkai: Star Rail) (CN)](https://hsr.hoyoverse.com/zh-cn/home)
 
-## Voice Pack v3.4.0
-1. Japanese: https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/Japanese.7z
-2. English: https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/English.7z
-3. Chinese: https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/Chinese.7z
-4. Korean: https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/Korean.7z
+## Voice Pack v3.5.0
+1. Japanese: https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/Japanese.7z
+2. English: https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/English.7z
+3. Chinese: https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/Chinese.7z
+4. Korean: https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/Korean.7z
 
 ## MiHoYo
 1. [MiHoYo (Honkai: Star Rail) (CN)](https://sr.mihoyo.com/?nav=home)
